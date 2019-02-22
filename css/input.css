@@ -1,0 +1,108 @@
+*{
+	margin:0 auto;
+}
+body{
+	background: url(icon/board_black_line_texture_background_wood_55220_2560x1600.jpg);
+	background-repeat: repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#header{
+	padding:30px;
+	position:relative;
+	height:100px;
+}
+.logo{
+	position:relative;
+	float:left;
+	width:200px;
+	height:100px;
+	margin-left:250px;
+}
+.tema{
+	position:relative;
+	color:rgba(255,255,255,1);
+	font-size:60px;
+	padding-top:50px;
+	float:right;
+	width:830px;
+	height:50px;
+}
+}
+#menu {
+	margin-top:50px;
+	color:rgba(255,255,255,1);
+}
+.m {
+	margin-left:500px;
+}
+.m a{
+	color: rgba(255,255,255,1);
+	float: left;
+	margin-right: 10px;
+	font-size: 14px;
+	text-decoration: none;
+	padding-top:7px;
+}
+.m a:link {
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+}
+.m a:hover {
+	text-decoration:none;
+	color: rgba(255,0,0,1);
+}
+.l{
+	float:right;
+	width:200px;
+}
+#content{
+	margin-top:150px;
+	width:50%;
+	overflow:hidden;
+}
+.con{
+	border:solid;
+	border-color:rgba(255,255,255,1);
+	margin:20px;
+	padding:20px;
+	background: rgba(102,102,102,.2);
+	overflow:hidden;
+	color:rgba(255,255,255,1);
+}
+.con h1{
+	background: rgba(255,0,0,.8);
+	padding:10px;
+	margin-bottom:20px
+}
+.w{
+	padding:5px;
+	border:rgba(255,255,255,1);
+	border-width: thin;
+	border-style:solid;
+	background:rgba(255,255,255,.10);
+	border-radius:5px;
+	height:25px;
+	color: rgba(255,255,255,1);
+}
+.e{
+	padding:5px;
+	border:rgba(255,255,255,1);
+	border-width: thin;
+	border-style:solid;
+	background:rgba(255,255,255,.10);
+	border-radius:5px;
+	color: rgba(255,255,255,1);
+}
+.r{
+	padding:5px;
+	border:rgba(255,255,255,1);
+	border-width: thin;
+	border-style:solid;
+	background:rgba(255,255,255,.10);
+	border-radius:5px;
+	color:rgba(0,0,0,1);
+}
+.o{
+	color:rgba(51,51,51,1);
+}

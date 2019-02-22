@@ -1,0 +1,93 @@
+*{
+	margin:0 auto;
+}
+body{
+	background: url(icon/Background-biru.jpg);
+	background-repeat: repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#header{
+	padding:30px;
+	position:relative;
+	height:100px;
+}
+.logo{
+	position:relative;
+	float:left;
+	width:200px;
+	height:100px;
+	margin-left:250px;
+}
+.tema{
+	position:relative;
+	color:black255,255,1);
+	font-size:60px;
+	padding-top:50px;
+	float:right;
+	width:830px;
+	height:50px;
+}
+}
+#menu {
+	margin-top:50px;
+	color:black255,255,1);
+}
+.m {
+	margin-left:500px;
+}
+.m a{
+	color: black255,255,1);
+	float: left;
+	margin-right: 10px;
+	font-size: 14px;
+	text-decoration: none;
+	padding-top:7px;
+}
+.m a:link {
+	color: black255,255,1);
+	text-decoration: none;
+}
+.m a:hover {
+	text-decoration:none;
+	color: rgba(255,0,0,1);
+}
+.l{
+	float:right;
+	width:200px;
+}
+#content{
+    
+	margin-top:150px;
+	width:90%;
+	overflow:hidden;
+	margin-left:100px;
+}
+.con{
+	margin-bottom:50px;
+	overflow:hidden;
+	float:left;
+	height:600px;
+	width:500px;
+	padding:20px;
+	border:solid;
+	border-color:rgba(255,255,255,1);
+	margin-right:50px;
+	color:black 255,255,1);
+
+}
+.con h1{
+	background: rgba(255,255,255,1) ;
+	padding:10px;
+}
+.con p {
+	text-align: justify;
+}
+.con p a{
+	color:black1);
+	text-decoration:none;
+}
+.con p a:hover {
+	text-decoration:none;
+	color: rgba(255,0,0,1);
+}
